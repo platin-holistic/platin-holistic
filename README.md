@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">PLATIN BILISIMv - Holistic Security</h1>
+<h1 align="center">PLATIN BILISIM - Holistic Security</h1>
 
 ###
 
