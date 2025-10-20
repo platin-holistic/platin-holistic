@@ -18,8 +18,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<p align="left">Repository of Holistic Security</p>
+<p align="left">Hashicorp Vault and IBM Guardium code materials</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
